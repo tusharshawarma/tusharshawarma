@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SQL, Python, Javascript**
 
-- 💬 Ask me about **Data Structure & Algorithms, Pandas, Power BI**
+- 💬 Ask me about **Data Structure & Algorithms, SQL**
 
 - 📫 How to reach me **tushar.sharma1011@gmail.com**
 
